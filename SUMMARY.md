@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Twitter account](chapter1.md)
-* [Liens Site](liens-site.md)
+* [Liens RSS](liens-site.md)
 

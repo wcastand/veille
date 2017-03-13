@@ -1,2 +1,23 @@
-# Liste des sites de veille utilisés
+# Liste RSS
 
+- http://julian.io/rss/
+- http://feeds.feedburner.com/auth0
+- https://www.brianthicks.com/index.xml
+- http://feeds2.feedburner.com/tympanus
+- http://daily-javascript.com/atom.xml
+- https://davidwalsh.name/feed
+- http://feeds.feedburner.com/designmodo
+- http://jslive.fr/items/feed.rss
+- https://jslive.com/rss
+- https://www.javascript.com/feed/rss
+- http://www.lambdacat.com/rss/
+- https://feeds.feedburner.com/ponyfoo
+- https://feeds.feedblitz.com/scotch_io
+- http://feeds.feedburner.com/SitepointFeed
+- http://www.smashingmagazine.com/feed/
+- http://speckyboy.com/feed/
+- http://survivejs.com/atom.xml
+- http://feeds.feedburner.com/Tutorialzine
+- http://feeds2.feedburner.com/Webappers
+- http://feeds.feedburner.com/webdesignerdepot
+- http://thenewcode.com/feed.php
