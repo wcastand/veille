@@ -1,6 +1,5 @@
 # How-to veille ?
 
-
 Tout les jours, j'ai une routine quand j'arrive au boulot.
 
 J'ouvre mon navigateur et je regarde mon fil d'actu Github et Twitter.
