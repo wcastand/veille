@@ -9,6 +9,8 @@ Je suis sur mac et j'utilise aussi un petit logiciel très basique RSSBot ou j'a
 
 Les comptes que vous suivez dépende surtout de ce qui vous interesses. Pour vous aidez au départ voici quelques liens/comptes que moi et d'autre personnes de Kilix suivons pour notre veille.
 
+Merci à [GusgusLF](https://twitter.com/GusgusLF) et [Dxt.](https://twitter.com/DxtFab) pour le partage de leurs liens.
+
 - [Twitter](/chapter1.md)
 - [Github](/github.md) 
 - [RSS](/liens-site.md)

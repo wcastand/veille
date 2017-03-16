@@ -56,6 +56,17 @@
 - https://twitter.com/estejs
 - https://twitter.com/rauschma
 
+## Angular
+
+- https://twitter.com/yearofmoo
+- https://twitter.com/toddmotto
+- https://twitter.com/John_Papa
+- https://twitter.com/angular
+- https://twitter.com/AngularJS_News
+- https://twitter.com/AngularTutorial
+- https://twitter.com/angularjs_io
+- https://twitter.com/AngulaRRJS
+
 ## Elm
 
 - https://twitter.com/elmlang
